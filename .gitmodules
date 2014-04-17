@@ -1,0 +1,6 @@
+[submodule "mamma"]
+	path = mamma
+	url = https://github.com/FabioGermano/script-mamma.git
+[submodule "papa"]
+	path = papa
+	url = https://github.com/FabioGermano/script-papa.git
